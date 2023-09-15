@@ -7,7 +7,7 @@ import simpy
 import random
 
 # Constants
-NUM_NODES = 9
+NUM_NODES = 100
 NUM_CLIENT_REQUESTS = 10000
 
 class EpidemicReplication:
